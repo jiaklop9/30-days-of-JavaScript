@@ -22,3 +22,9 @@ var person = {
    }; 
 
 console.log(person)
+
+
+// 查询对象是否声明
+// window声明不可用，需要补环境
+// var newValue = window.oldValue;
+// console.log(newValue);
